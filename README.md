@@ -38,3 +38,8 @@ https://drive.google.com/drive/folders/1ANkgtAT0Pdp2r86IxFKv9vKYmnsYjJDO?usp=sha
 # Approaches:
 
 ### We have used Python for doing the EDA and Tableau for visualization.
+
+
+# Tableau Dashboard
+
+https://public.tableau.com/app/profile/aalmeen.khan7772/viz/Airbnb_16853465077110/Dashboard1
