@@ -16,8 +16,6 @@ Team Member :
 
 -   ## [ABDUL JAWEED](https://www.linkedin.com/in/abdul-jaweed-datascientist/)
 
-# AirBnB
-### Founded in 2008, Airbnb is a global online marketplace connecting hosts and travelers for short-term accommodations. It offers a diverse range of listings, including apartments, houses, unique spaces, and even entire islands.Airbnb has transformed the way people travel, providing affordable alternatives to traditional hotels and creating new economic opportunities for hosts worldwide.
 
 
 # Problem Statement:
