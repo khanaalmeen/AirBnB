@@ -26,6 +26,7 @@ Team Member :
 ### This dataset describes the listing activity and metrics in Amsterdam, Europe for 2019.
 
 ### The data file includes all needed information to find out more about hosts, geographical availability, necessary metrics to make predictions and draw conclusions.
+### Find key metrics and factors and show the meaningful relationships between attributes.
 
 
 # DataSet : 
